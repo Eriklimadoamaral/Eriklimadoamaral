@@ -4,8 +4,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-lima-do-amaral-02947b272/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erk_l.m/)
 
-![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=Eriklimadoamaral&show_icons=true&theme=synthwave)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display : inline_block"><br/>
